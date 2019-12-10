@@ -4,6 +4,7 @@ git add Crates
 git add Guards
 git add Items
 git add Warehouse
+git add audio
 git commit -m "Nightly Backup"
 git push
 
